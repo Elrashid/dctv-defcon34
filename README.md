@@ -31,6 +31,24 @@ Two consequences worth knowing when you use this:
 * **`rerun` marks archival material** — a replay of an older DEF CON, not a 2026 session.
   60 of the 167 are reruns, and 16 recordings air more than once across the two days.
 
+## What this site collects
+
+**Your viewing stays on your device.** Which talks you opened, how far you got and how long
+you watched are written to `localStorage` in your browser, so the page can offer resume
+markers, history and a "your viewing" summary. Nothing reads or transmits that record — open
+**your viewing** in the header to see everything held, export it as JSON, or delete it.
+
+**Page views are counted with Cloudflare Web Analytics.** It is cookieless, does no
+fingerprinting and does no cross-site tracking. It records that a page was loaded plus the
+request metadata any web server sees; it does not receive your viewing record. There is no
+Google Analytics, no advertising tag and no third-party tracker beyond this.
+
+**Playback is embedded from YouTube**, in privacy-enhanced mode
+(`youtube-nocookie.com`), which avoids setting tracking cookies unless you actually press
+play. Once you play, YouTube's own terms and data practices apply — that part is theirs,
+not ours. Running the archive from your own disk against local files loads no analytics and
+contacts nobody.
+
 ## Watch modes
 
 Each talk has weighted keypoints, so you can watch it three ways:

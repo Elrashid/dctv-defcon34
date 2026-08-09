@@ -1000,5 +1000,233 @@
     "url": "https://defcon.elrashid.co/t/dc34-d02-policytalks-071400/",
     "title": "The Closing Window: Governing Agentic AI Security in a Post-Mythos World",
     "day": null
+  },
+  {
+    "id": "dc34-d03-track2-000000",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track2-000000/",
+    "title": "Cloud computing: weapon of mass destruction",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track2-003700",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track2-003700/",
+    "title": "This message was sent by Microsoft",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track2-013800",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track2-013800/",
+    "title": "Beyond the Ceremony: The 2026 Passkey Attack Surface",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track2-021645",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track2-021645/",
+    "title": "backdoor in the front door",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track2-023730",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track2-023730/",
+    "title": "MSIXup: Weaponizing the Modern Windows App Packaging Ecosystem",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track3-000000",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track3-000000/",
+    "title": "Cloud computing: weapon of mass destruction",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track3-003745",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track3-003745/",
+    "title": "gemini cli pre task rce",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track3-005830",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track3-005830/",
+    "title": "Weaponizing your pets",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track3-010515",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track3-010515/",
+    "title": "Gotta Fish 'Em All: Novel Attack Techniques via Persistent Browser in the Middle",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track3-014900",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track3-014900/",
+    "title": "destroying hard drives",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track3-020900",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track3-020900/",
+    "title": "php use after free disable functions",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track3-024815",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track3-024815/",
+    "title": "sha1 collision",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track3-030800",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track3-030800/",
+    "title": "nvidia gpu container escape",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track3-034545",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track3-034545/",
+    "title": "Freaking Elevators",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track3-040745",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track3-040745/",
+    "title": "Taking on the Dark Fleet in Cyberspace",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track3-042930",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track3-042930/",
+    "title": "Abusing Peer-to-Peer to Hack 3 Million Cameras",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track3-043730",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track3-043730/",
+    "title": "evil ais maritime steganography",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track5-000000",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track5-000000/",
+    "title": "Cloud computing weapon of mass destruction tail",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track5-000930",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track5-000930/",
+    "title": "cloud computing weapon of mass destruction",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track5-003545",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track5-003545/",
+    "title": "Tor Guy Yells at Cloud",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track5-013645",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track5-013645/",
+    "title": "Gunning for 60 Frames: USB Video Exploitation",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track5-021300",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track5-021300/",
+    "title": "freaking elevators",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track5-023430",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track5-023430/",
+    "title": "One Wildcard, 1.1 Million Cameras",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track5-032045",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track5-032045/",
+    "title": "ads b air traffic control",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track5-033700",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track5-033700/",
+    "title": "windows logic bug privesc chains",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track5-041730",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track5-041730/",
+    "title": "freaking blinky lights",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track5-043715",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track5-043715/",
+    "title": "Hacking Jet Skis: From Sea-Don't to Sea-Doo",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track4-100000",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track4-100000/",
+    "title": "a cloud computing weapon of mass destruction",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track4-120115",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track4-120115/",
+    "title": "Going the Distance: Long Range Q-Store Injection via Lower Mesh Networks",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track4-123145",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track4-123145/",
+    "title": "bendix ec80 brake controller recall",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track4-131730",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track4-131730/",
+    "title": "backdoor in the front door",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track4-132745",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track4-132745/",
+    "title": "aftermarket ble car alarms",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track4-141015",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track4-141015/",
+    "title": "Aura",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track4-142845",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track4-142845/",
+    "title": "sgrm driver ppl defender tampering",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track4-151430",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track4-151430/",
+    "title": "The Hitchhiker's Guide to iPhone Lightning and JTAG Hacking",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-track4-152845",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-track4-152845/",
+    "title": "undecidability vs ai bugtraq",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-policytalks-013045",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-policytalks-013045/",
+    "title": "The Strategic Resistance: How a Global Network is Fighting the Spyware Industry",
+    "day": null
+  },
+  {
+    "id": "dc34-d03-policytalks-023000",
+    "url": "https://defcon.elrashid.co/t/dc34-d03-policytalks-023000/",
+    "title": "Influence in the Infrastructure: Developing NIST and AI RMF Resources for Resilient AI in Critical Systems",
+    "day": null
   }
 ]
